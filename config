@@ -1,0 +1,2 @@
+Host gitlab.com
+    IdentityFIle ~/.ssh/id_rsa
